@@ -49,4 +49,4 @@ frontend/            # Vue 前端
 
 ## License
 
-MIT
+本项目基于 [GPL-3.0](LICENSE) 发布。

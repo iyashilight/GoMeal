@@ -34,3 +34,5 @@ redis-data/
 
 # Node
 node_modules/
+frontend/**/dist/
+dist/
