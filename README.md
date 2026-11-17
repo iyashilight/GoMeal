@@ -1,5 +1,7 @@
 # GoMeal
 
+> **中文** | [English](README.en.md)
+
 外卖订餐系统后端 — Go 学习项目。
 
 ## 技术栈
